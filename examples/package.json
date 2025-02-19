@@ -13,7 +13,7 @@
     "@okxweb3/coin-ethereum": "^1.0.3",
     "@okxweb3/coin-ton": "^1.0.0",
     "@okxweb3/crypto-lib": "^1.0.4",
-    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^14.5.2",
     "@types/jest": "^28.1.8",
